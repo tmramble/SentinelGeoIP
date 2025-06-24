@@ -51,8 +51,7 @@ In this project, I worked with large geo-data files, uploaded them to Azure Stor
 - **Log Analytics Workspace (LAW)**
 - **Azure Portal**
 
-## Screenshots (Optional)
-_(Here, you can include screenshots of your setup, the Log Analytics Workspace, and the query results showing the watchlist.)_
+
 
 ## Conclusion
 This project helped me gain practical experience in **Azure cloud services** such as **Azure Sentinel**, **Log Analytics**, and **Azure Storage**. It also reinforced my understanding of how to manage and analyze large datasets in the cloud. This project is highly applicable to roles that require expertise in **cloud security**, **SIEM** solutions, and **log data analysis**.
